@@ -1,0 +1,6 @@
+{
+  "name": "Gerenciamento de Banca - Trader Pro",
+  "description": "Painel profissional de gerenciamento de banca com cálculo de juros compostos diários, projeção de metas e controle de stop loss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
